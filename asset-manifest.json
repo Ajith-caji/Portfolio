@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.ca0ef9ec.css",
+    "main.js": "/Portfolio/static/js/main.38495fda.js",
+    "static/js/453.1407b060.chunk.js": "/Portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/photo.jpeg": "/Portfolio/static/media/photo.6777f7286c8a5bebfa14.jpeg",
+    "static/media/isdb.png": "/Portfolio/static/media/isdb.775cbcb993af615fa59c.png",
+    "static/media/neweat-desc.jpg": "/Portfolio/static/media/neweat-desc.cdc760d208e1ee89ab09.jpg",
+    "static/media/isdb dashboard.jpg": "/Portfolio/static/media/isdb dashboard.148632a8f24f85a6e467.jpg",
+    "static/media/inner-page.jpg": "/Portfolio/static/media/inner-page.80a756652892f7856c86.jpg",
+    "static/media/document-page.jpg": "/Portfolio/static/media/document-page.57ae705ca554f39b2f4f.jpg",
+    "static/media/neweast-home.jpg": "/Portfolio/static/media/neweast-home.c08f249ac3f442f5cd5d.jpg",
+    "static/media/dashMom.jpg": "/Portfolio/static/media/dashMom.4300107b1474a2b1f97c.jpg",
+    "static/media/dashArc.jpg": "/Portfolio/static/media/dashArc.2091b3846448e449ba85.jpg",
+    "static/media/mom-designs.jpg": "/Portfolio/static/media/mom-designs.679f0b571dd22bcdfd12.jpg",
+    "static/media/tableArc.jpg": "/Portfolio/static/media/tableArc.55774fbaf2254f058bb9.jpg",
+    "static/media/mom-design.jpg": "/Portfolio/static/media/mom-design.d2b330d5b7b09086805a.jpg",
+    "static/media/isdb-forms.jpg": "/Portfolio/static/media/isdb-forms.e8a76bc0b3cdcdf7b6f8.jpg",
+    "static/media/viewArc.jpg": "/Portfolio/static/media/viewArc.8faf93578bdc2e8904d5.jpg",
+    "static/media/formArc.jpg": "/Portfolio/static/media/formArc.7d86e27909a6762fe3f6.jpg",
+    "static/media/formArc1.jpg": "/Portfolio/static/media/formArc1.2050a8b51d6550604b59.jpg",
+    "index.html": "/Portfolio/index.html",
+    "main.ca0ef9ec.css.map": "/Portfolio/static/css/main.ca0ef9ec.css.map",
+    "main.38495fda.js.map": "/Portfolio/static/js/main.38495fda.js.map",
+    "453.1407b060.chunk.js.map": "/Portfolio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca0ef9ec.css",
+    "static/js/main.38495fda.js"
+  ]
+}
